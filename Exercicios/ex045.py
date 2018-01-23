@@ -42,7 +42,3 @@ elif jog == 0 and comp == 0 or jog == 1 and comp == 1 or jog == 2 and comp == 2:
     print('EMPATE')
 else:
     print('COMPUTADOR VENCE')
-
-    
-
-
