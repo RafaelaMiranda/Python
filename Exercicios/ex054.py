@@ -18,7 +18,7 @@ else:
 
 if menor > 1:
     print('E também tivemos {} pessoas menores de idade'.format(menor))
-elif maior == 1:
+elif menor == 1:
     print('E também tivemos 1 pessoa menor de idade')
 else:
     print('E não tivemos pessoas menores de idade')
