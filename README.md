@@ -1,4 +1,4 @@
-#Python
+# Python
 
 Scripts de cursos em andamento de Python
 
